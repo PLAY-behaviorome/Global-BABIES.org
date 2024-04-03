@@ -1,0 +1,36 @@
+---
+title: "Data & Products"
+---
+
+## Natural activities
+
+Example videos from other sites
+
+## Home environment
+
+Mattterport & video walkthrough
+
+Example videos from other sites
+
+## Questionnaires
+
+## Workflow figure
+
+Identify sites
+
+Translation & adaptation
+
+Training & piloting
+
+Study data collection launch\
+QA of videos
+
+QA
+
+Transcription & annotation
+
+QA
+
+Release to DB
+
+## Include website info in this section
