@@ -2,8 +2,6 @@
 title: "Quality Assurance"
 ---
 
-## Edit the PLAY site to use the Global BABIES adaptation (use what Catalina & Kasey followed for Global BABIES, but with less detail- generally the gist)
-
 # Delete FAQs
 
 # Delete Video coding
