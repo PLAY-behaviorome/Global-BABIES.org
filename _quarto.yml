@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Global-Babies"
+  title: "Global Babies"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
       - thesample.qmd
       - dataproducts.qmd
       - protocol.qmd
-      - quality.md
+      - quality.qmd
       
 
 format:

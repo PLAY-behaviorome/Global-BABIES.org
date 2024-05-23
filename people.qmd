@@ -2,26 +2,37 @@
 title: "People"
 ---
 
-## Project Leadership Team (instead of PIs)
+# Project Leadership
 
-Cathie, Karen, Cristine
++------------------------------------------+-----------------------------------------+---------------------------------------------+
+| ![](pics/people-cathie.png){width="200"} | ![](pics/people-karen.png){width="200"} | ![](pics/people-cristine.jpeg){width="199"} |
++------------------------------------------+-----------------------------------------+---------------------------------------------+
+| **Catherine Tamis-LeMonda**\             | **Karen Adolph**\                       | **Cristine Legare**\                        |
+| New York University                      | New York University                     | University of Texas, Austin                 |
++------------------------------------------+-----------------------------------------+---------------------------------------------+
 
-## Databrary Directors
+# Local Site Investigators
 
-Karen & Rick
++------------------------------------------+-------------------------------------------+
+| ![](pics/people-jihyun.jpg){width="200"} | ![](pics/people-florrie.jpg){width="214"} |
++------------------------------------------+-------------------------------------------+
+| **Ji-hyun Song**\                        | **Florrie Ng**\                           |
+| Sung Kyun Kwan University\               | Chinese University of Hong Kong\          |
+| South Korea                              | Hong Kong                                 |
++------------------------------------------+-------------------------------------------+
 
-## Training and Quality Assurance 
+As project scope expands, additional investigators will be added to the project.
 
-Kasey, Orit, & Cata
+# Databrary Directors
 
-## Local Site PIs (instead of collaborators)
++---------------------+-----------------------+
+| **Karen Adolph**\   | **Rick Gilmore**\     |
+| New York University | Penn State University |
++---------------------+-----------------------+
 
-Hong Kong: Florrie Ng
+# Training and Quality Assurance
 
-South Korea: Jihyun Song
-
-(List other collaborators of Cristine)
-
-## Advisory Board (placeholder)
-
-TBD
++---------------------+---------------------+-----------------------------+---------------------+
+| **Kasey Soska**\    | **Orit Herzberg**\  | **Catalina Saurez-Rivera**\ | **Kristy Lai**\     |
+| New York University | New York University | University College London   | New York University |
++---------------------+---------------------+-----------------------------+---------------------+
