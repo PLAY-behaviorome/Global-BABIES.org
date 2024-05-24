@@ -4,7 +4,7 @@ title: "Data & Products"
 
 # Video Data
 
-All video data and spreadsheet export from parent-report questionnaires will be openly shared on Databrary at the project end. Full videos from exemplar home visits in [Hong Kong](https://nyu.databrary.org/volume/1745/slot/72036/-) and [South Korea](https://nyu.databrary.org/volume/1745/slot/72037/-) are publicly available. Curated clips and excerpts will be shared on the new "BABIESbrary" searchable global library created as part of this project.
+All video data and spreadsheet export from parent-report questionnaires will be openly shared on Databrary at the project end. Full videos from exemplar home visits in [South Korea](https://nyu.databrary.org/volume/1745/slot/72037/-) and [Hong Kong and China](https://nyu.databrary.org/volume/1611) are publicly available. Curated clips and excerpts will be shared on the new "BABIESbrary" searchable global library created as part of this project.
 
 All videos that are collected with go through a quality assurance (QA) process in which the BABIES team will ensure that participants meet inclusion criteria and protocol adhered to, such that videos are eligible to be included in the final sample. Videos that don't pass QA may be reused for other purposes, and as needed, the collection site will be provided additional training.
 
@@ -76,22 +76,22 @@ Researchers use Matterport 3D technology to produce a digital rendering of famil
 
 Researchers orally administer parent-report questionnaires during the home visit. Questionnaires are translated into local languages by each site investigator's team. Topics covered include:
 
-+---------------------------+-----------------------------------------+
-| Before Visit (over phone) | Demographics\                           |
-|                           | Gestational age & child health\         |
-|                           | Home languages\                         |
-|                           | Sleep & childcare                       |
-+---------------------------+-----------------------------------------+
-| Home Visit                | Vocabulary\                             |
-|                           | Motor milestones\                       |
-|                           | Division of labor\                      |
-|                           | Family routines\                        |
-|                           | Household roster\                       |
-|                           | Child-rearing values                    |
-+---------------------------+-----------------------------------------+
-| After Visit               | Experimenter protocol notes\            |
-|                           | Checklist for quality assurance         |
-+---------------------------+-----------------------------------------+
++---------------------------+----------------------------------------+
+| Before Visit (over phone) | Demographics\                          |
+|                           | Gestational age & child health\        |
+|                           | Home languages\                        |
+|                           | Sleep & childcare                      |
++---------------------------+----------------------------------------+
+| Home Visit                | Vocabulary\                            |
+|                           | Motor milestones\                      |
+|                           | Division of labor\                     |
+|                           | Family routines\                       |
+|                           | Household roster\                      |
+|                           | Child-rearing values                   |
++---------------------------+----------------------------------------+
+| After Visit               | Experimenter protocol notes\           |
+|                           | Checklist for quality assurance        |
++---------------------------+----------------------------------------+
 
 ::: vid
 [Full questionnaire from Global BABIES - Hong Kong:]{.descript}
