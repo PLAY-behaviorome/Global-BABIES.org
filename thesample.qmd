@@ -2,12 +2,28 @@
 title: "The Sample"
 ---
 
-## Overview of developing, developed, etc. from Cristine
+Each Global BABIES site is responsible for outreach to their community to enroll interested families, visits home to film mother-child natural activity, and upload videos to their Databrary volume. The final sample will contain 1000+ hours of mother-child activity, house tours, 3D renderings of the home, and parent-report questionnaires.
 
-Map of sites (from Templeton grant)
+## The Sites
 
-Ages of children
+The full corpus will be openly shared on [Databrary](databrary.org). Excerpt visits are currently available on the [Global BABIES Databrary volume](https://nyu.databrary.org/volume/1745).
 
-Who participates (caregivers? demographics etc)
+### Databrary reach (blue) & Current Global BABIES sites (red)
 
-Inclusion and exclusionary criteria (Borrow from PLAY site, but modify)
+![](pics/BabiesSites-current.png)
+
+### Anticipated Future Global BABIE Sites (yellow)
+
+![](pics/BabiesSites-proposed.png)
+
+## Inclusion criteria
+
+Although Global BABIES endeavors to sample as much of the rich variations that the collection sites present. To ensure a sufficient sample size, we will limit variability along several dimensions. To be included in the final sessions, participants must:
+
+-   be between 11-25 months of age
+
+-   be born full-term (at last 36 weeks), of normal birth weight (\>= 5.5 lbs), without known disabilities
+
+-   have the mother act as the caregiver during the one hour of natural activity
+
+Participant families will vary widely on all other measures including race, ethnicity, home language, religion, urban/rural/suburban residence, and developing nation status.
