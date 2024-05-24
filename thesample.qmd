@@ -64,5 +64,4 @@ flowchart TD
     style QA2 fill:#f0f5f5,color:#000000
     style Script color:#000000
   end
-  
 ```

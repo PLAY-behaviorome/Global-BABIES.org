@@ -5,7 +5,7 @@ title: "People"
 # Project Leadership
 
 +------------------------------------------+-----------------------------------------+---------------------------------------------+
-| ![](pics/people-cathie.png){width="200"} | ![](pics/people-karen.png){width="200"} | ![](pics/people-cristine.jpeg){width="199"} |
+| ![](pics/people-cathie.png){width="225"} | ![](pics/people-karen.png){width="225"} | ![](pics/people-cristine.jpeg){width="224"} |
 +------------------------------------------+-----------------------------------------+---------------------------------------------+
 | **Catherine Tamis-LeMonda**\             | **Karen Adolph**\                       | **Cristine Legare**\                        |
 | New York University                      | New York University                     | University of Texas, Austin                 |
@@ -14,7 +14,7 @@ title: "People"
 # Local Site Investigators
 
 +------------------------------------------+-------------------------------------------+
-| ![](pics/people-jihyun.jpg){width="200"} | ![](pics/people-florrie.jpg){width="214"} |
+| ![](pics/people-jihyun.jpg){width="210"} | ![](pics/people-florrie.jpg){width="224"} |
 +------------------------------------------+-------------------------------------------+
 | **Ji-hyun Song**\                        | **Florrie Ng**\                           |
 | Sung Kyun Kwan University\               | Chinese University of Hong Kong\          |
@@ -23,16 +23,18 @@ title: "People"
 
 As project scope expands, additional investigators will be added to the project.
 
-# Databrary Directors
-
-+---------------------+-----------------------+
-| **Karen Adolph**\   | **Rick Gilmore**\     |
-| New York University | Penn State University |
-+---------------------+-----------------------+
-
 # Training and Quality Assurance
 
-+---------------------+---------------------+-----------------------------+---------------------+
-| **Kasey Soska**\    | **Orit Herzberg**\  | **Catalina Saurez-Rivera**\ | **Kristy Lai**\     |
-| New York University | New York University | University College London   | New York University |
-+---------------------+---------------------+-----------------------------+---------------------+
++-----------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+
+| ![](pics/people-kasey.png){width="150"} | ![](pics/people-catalina.png){width="173"} | ![](pics/people-orit.jpg){width="150"} | ![](pics/people-kristy.png){width="149"} |
++-----------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+
+| **Kasey Soska**\                        | **Catalina Saurez-Rivera**\                | **Orit Herzberg**\                     | **Kristy Lai**\                          |
+| New York University                     | University College London                  | New York University                    | New York University                      |
++-----------------------------------------+--------------------------------------------+----------------------------------------+------------------------------------------+
+
+# Databrary Directors
+
++-----------------------+---------------------+
+| Rick Gilmore\         | Karen Adolph\       |
+| Penn State University | New York University |
++-----------------------+---------------------+
