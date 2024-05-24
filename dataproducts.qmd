@@ -12,67 +12,99 @@ All videos that are collected with go through a quality assurance (QA) process i
 
 Researchers film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.
 
-*Full 1-hour natural activity from Global BABIES - South Korea:*
+::: vid
+[Full 1-hour natural activity from Global BABIES - South Korea:]{.descript}
 
 ```{=html}
-<iframe src="https://nyu.databrary.org/slot/72037/0,4645248/asset/492905/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+<video width="480" controls>
+    <source src="https://nyu.databrary.org/slot/72037/0,4645248/asset/492905/download?inline=true" type="video/mp4">
+</video>
 ```
-*Full 1-hour natural activity from Global BABIES - Hong Kong:*
+:::
+
+::: vid
+[Full 1-hour natural activity from Global BABIES - Hong Kong:]{.descript}
 
 ```{=html}
-<iframe src="https://nyu.databrary.org/slot/72036/979047,4724859/asset/492903/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+<video width="480" controls>
+    <source src="https://nyu.databrary.org/slot/72036/979047,4710862/asset/492950/download?inline=true" type="video/mp4">
+</video>
 ```
+:::
+
 ## Home environment
 
 ### House walkthrough
 
 Researchers film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.
 
-*Excerpts from Global BABIES - Hong Kong:*
+::: vid
+[Excerpts from Global BABIES - Hong Kong:]{.descript}
 
 ```{=html}
-<iframe src="https://nyu.databrary.org/slot/72038/0,15195/asset/492950/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+<video width="480" controls>
+    <source src="https://nyu.databrary.org/slot/72038/0,15195/asset/492940/download?inline=true" type="video/mp4">
+</video>
 ```
-*Full house walkthrough from Global BABIES - South Korea:*
+:::
+
+::: vid
+[Full house walkthrough from Global BABIES - South Korea:]{.descript}
 
 ```{=html}
-<iframe src="https://nyu.databrary.org/slot/72037/4646248,6684584/asset/492906/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+<video width="480" controls>
+    <source src="https://nyu.databrary.org/slot/72037/4646248,6684584/asset/492906/download?inline=true" type="video/mp4">
+</video>
 ```
+:::
+
 ### 3D rendering
 
 Researchers use Matterport 3D technology to produce a digital rendering of family's homes, including measurements of all spaces.
 
-*Excerpt from Global BABIES - New York:*
+::: vid
+[Excerpt from Global BABIES - New York:]{.descript}
 
 ```{=html}
-<iframe src="https://nyu.databrary.org/slot/72038/16195,43195/asset/492948/download?inline=truee" width="400" height="300" type="video/mp4"></iframe>
+<video width="400" controls autoplay>
+    <source src="https://nyu.databrary.org/slot/72038/16195,43195/asset/492948/download?inline=true" type="video/mp4">
+</video>
 ```
-## Questionnaires
+:::
+
+# Questionnaires
 
 Researchers orally administer parent-report questionnaires during the home visit. Questionnaires are translated into local languages by each site investigator's team. Topics covered include:
 
-+---------------------------+---------------------------------------------+
-| Before Visit (over phone) | Demographics\                               |
-|                           | Gestational age & child health\             |
-|                           | Home languages\                             |
-|                           | Sleep & childcare                           |
-+---------------------------+---------------------------------------------+
-| Home Visit                | Vocabulary\                                 |
-|                           | Motor milestones\                           |
-|                           | Division of labor\                          |
-|                           | Family routines\                            |
-|                           | Household roster\                           |
-|                           | Child-rearing values                        |
-+---------------------------+---------------------------------------------+
-| After Visit               | Experimenter protocol notes\                |
-|                           | Checklist for quality assurance             |
-+---------------------------+---------------------------------------------+
++---------------------------+-----------------------------------------+
+| Before Visit (over phone) | Demographics\                           |
+|                           | Gestational age & child health\         |
+|                           | Home languages\                         |
+|                           | Sleep & childcare                       |
++---------------------------+-----------------------------------------+
+| Home Visit                | Vocabulary\                             |
+|                           | Motor milestones\                       |
+|                           | Division of labor\                      |
+|                           | Family routines\                        |
+|                           | Household roster\                       |
+|                           | Child-rearing values                    |
++---------------------------+-----------------------------------------+
+| After Visit               | Experimenter protocol notes\            |
+|                           | Checklist for quality assurance         |
++---------------------------+-----------------------------------------+
 
-*Full questionnaire from Global BABIES - Hong Kong:*
+::: vid
+[Full questionnaire from Global BABIES - Hong Kong:]{.descript}
 
 ```{=html}
-<iframe src="https://nyu.databrary.org/slot/72036/4725859,6877581/asset/492904/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+<video width="480" controls>
+    <source src="https://nyu.databrary.org/slot/72036/4725859,6877581/asset/492904/download?inline=true" type="video/mp4">
+</video>
 ```
-# Workflow & Timeline
+:::
 
-![](pics/timeline-5year.png)
+# Language Translations & Cultural Adaptations
+
+## Assessing vocabulary of dual language learners
+
+As part of the NIH [PLAY Project](play-project.org), a method for addressing gaps in the assessment of dual-language learning infants was developed. The method for developing the vocabulary inventory and product are reported are shared on [this Databrary volume](https://nyu.databrary.org/volume/1168).
