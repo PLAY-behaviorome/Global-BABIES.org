@@ -25,42 +25,28 @@
     "href": "dataproducts.html",
     "title": "Data & Products",
     "section": "",
-    "text": "Example videos from other sites"
+    "text": "All video data and spreadsheet export from parent-report questionnaires will be openly shared on Databrary at the project end. Full videos from exemplar home visits in Hong Kong and South Korea are publicly available. Curated clips and excerpts will be shared on the new “BABIESbrary” searchable global library created as part of this project.\n\n\nResearchers film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.\nFull 1-hour natural activity from Global BABIES - South Korea:\n\nFull 1-hour natural activity from Global BABIES - Hong Kong:\n\n\n\n\n\n\nResearchers film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.\nExcerpts from Global BABIES - Hong Kong:\n\nFull house walkthrough from Global BABIES - South Korea:\n\n\n\n\nResearchers use Matterport 3D technology to produce a digital rendering of family’s homes, including measurements of all spaces.\nExcerpt from Global BABIES - New York:\n\n\n\n\n\nResearchers orally administer parent-report questionnaires during the home visit. Questionnaires are translated into local languages by each site investigator’s team. Topics covered include:\n\n\n\n\n\n\n\nBefore Visit (over phone)\nDemographics\nGestational age & child health\nHome languages\nSleep & childcare\n\n\nHome Visit\nVocabulary\nMotor milestones\nDivision of labor\nFamily routines\nHousehold roster\nChild-rearing values\n\n\nAfter Visit\nExperimenter protocol notes\nChecklist for quality assurance\n\n\n\nFull questionnaire from Global BABIES - Hong Kong:"
   },
   {
     "objectID": "dataproducts.html#natural-activities",
     "href": "dataproducts.html#natural-activities",
     "title": "Data & Products",
     "section": "",
-    "text": "Example videos from other sites"
+    "text": "Researchers film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.\nFull 1-hour natural activity from Global BABIES - South Korea:\n\nFull 1-hour natural activity from Global BABIES - Hong Kong:"
   },
   {
     "objectID": "dataproducts.html#home-environment",
     "href": "dataproducts.html#home-environment",
     "title": "Data & Products",
-    "section": "Home environment",
-    "text": "Home environment\nMattterport & video walkthrough\nExample videos from other sites"
+    "section": "",
+    "text": "Researchers film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.\nExcerpts from Global BABIES - Hong Kong:\n\nFull house walkthrough from Global BABIES - South Korea:\n\n\n\n\nResearchers use Matterport 3D technology to produce a digital rendering of family’s homes, including measurements of all spaces.\nExcerpt from Global BABIES - New York:"
   },
   {
     "objectID": "dataproducts.html#questionnaires",
     "href": "dataproducts.html#questionnaires",
     "title": "Data & Products",
-    "section": "Questionnaires",
-    "text": "Questionnaires"
-  },
-  {
-    "objectID": "dataproducts.html#workflow-figure",
-    "href": "dataproducts.html#workflow-figure",
-    "title": "Data & Products",
-    "section": "Workflow figure",
-    "text": "Workflow figure\nIdentify sites\nTranslation & adaptation\nTraining & piloting\nStudy data collection launch\nQA of videos\nQA\nTranscription & annotation\nQA\nRelease to DB"
-  },
-  {
-    "objectID": "dataproducts.html#include-website-info-in-this-section",
-    "href": "dataproducts.html#include-website-info-in-this-section",
-    "title": "Data & Products",
-    "section": "Include website info in this section",
-    "text": "Include website info in this section"
+    "section": "",
+    "text": "Researchers orally administer parent-report questionnaires during the home visit. Questionnaires are translated into local languages by each site investigator’s team. Topics covered include:\n\n\n\n\n\n\n\nBefore Visit (over phone)\nDemographics\nGestational age & child health\nHome languages\nSleep & childcare\n\n\nHome Visit\nVocabulary\nMotor milestones\nDivision of labor\nFamily routines\nHousehold roster\nChild-rearing values\n\n\nAfter Visit\nExperimenter protocol notes\nChecklist for quality assurance\n\n\n\nFull questionnaire from Global BABIES - Hong Kong:"
   },
   {
     "objectID": "protocol.html#cut-decibel",
@@ -109,14 +95,14 @@
     "href": "thesample.html",
     "title": "The Sample",
     "section": "",
-    "text": "Each Global BABIES site is responsible for outreach to their community to enroll interested families, visits home to film mother-child natural activity, and upload videos to their Databrary volume. The final sample will contain 1000+ hours of mother-child activity, house tours, 3D renderings of the home, and parent-report questionnaires."
+    "text": "Each Global BABIES site is responsible for outreach to their community to enroll interested families, visits home to film mother-child natural activity, and upload videos to their Databrary volume—with each site collecting data from 100 mother-child pairs. The final sample will contain 1000+ hours of mother-child activity, house tours, 3D renderings of the home, and parent-report questionnaires."
   },
   {
     "objectID": "thesample.html#the-sites",
     "href": "thesample.html#the-sites",
     "title": "The Sample",
     "section": "The Sites",
-    "text": "The Sites\nThe full corpus will be openly shared on Databrary. Excerpt visits are currently available on the Global BABIES Databrary volume.\n\nDatabrary reach (blue) & Current Global BABIES sites (red)\n\n\n\nAnticipated Future Global BABIE Sites (yellow)"
+    "text": "The Sites\nThe full corpus will be openly shared on Databrary. Excerpt visits are currently available on the Global BABIES Databrary volume.\n\nDatabrary Institutions & Current Global BABIES Sites\n\nBlue markers indicate Databrary partnered institutions. Red markers indicate current Global BABIES data collection sites,\n\n\nAnticipated Future Global BABIE Sites\n\nYellow markers indicate proposed future Global BABIES sites—previous research partners of the leadership team."
   },
   {
     "objectID": "thesample.html#inclusion-criteria",

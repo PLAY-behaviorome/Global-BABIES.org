@@ -2,35 +2,75 @@
 title: "Data & Products"
 ---
 
-## Natural activities
+# Video Data
 
-Example videos from other sites
+All video data and spreadsheet export from parent-report questionnaires will be openly shared on Databrary at the project end. Full videos from exemplar home visits in [Hong Kong](https://nyu.databrary.org/volume/1745/slot/72036/-) and [South Korea](https://nyu.databrary.org/volume/1745/slot/72037/-) are publicly available. Curated clips and excerpts will be shared on the new "BABIESbrary" searchable global library created as part of this project.
 
-## Home environment
+## Natural Activities
 
-Mattterport & video walkthrough
+Researchers film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.
 
-Example videos from other sites
+*Full 1-hour natural activity from Global BABIES - South Korea:*
 
+```{=html}
+<iframe src="https://nyu.databrary.org/slot/72037/0,4645248/asset/492905/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+```
+*Full 1-hour natural activity from Global BABIES - Hong Kong:*
+
+```{=html}
+<iframe src="https://nyu.databrary.org/slot/72036/979047,4724859/asset/492903/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+```
+## Home Environment
+
+### House Walkthrough
+
+Researchers film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.
+
+*Excerpts from Global BABIES - Hong Kong:*
+
+```{=html}
+<iframe src="https://nyu.databrary.org/slot/72038/0,15195/asset/492950/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+```
+*Full house walkthrough from Global BABIES - South Korea:*
+
+```{=html}
+<iframe src="https://nyu.databrary.org/slot/72037/4646248,6684584/asset/492906/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+```
+### 3D Rendering
+
+Researchers use Matterport 3D technology to produce a digital rendering of family's homes, including measurements of all spaces.
+
+*Excerpt from Global BABIES - New York:*
+
+```{=html}
+<iframe src="https://nyu.databrary.org/slot/72038/16195,43195/asset/492948/download?inline=truee" width="400" height="300" type="video/mp4"></iframe>
+```
 ## Questionnaires
 
-## Workflow figure
+Researchers orally administer parent-report questionnaires during the home visit. Questionnaires are translated into local languages by each site investigator's team. Topics covered include:
 
-Identify sites
++---------------------------+---------------------------------------------------+
+| Before Visit (over phone) | Demographics\                                     |
+|                           | Gestational age & child health\                   |
+|                           | Home languages\                                   |
+|                           | Sleep & childcare                                 |
++---------------------------+---------------------------------------------------+
+| Home Visit                | Vocabulary\                                       |
+|                           | Motor milestones\                                 |
+|                           | Division of labor\                                |
+|                           | Family routines\                                  |
+|                           | Household roster\                                 |
+|                           | Child-rearing values                              |
++---------------------------+---------------------------------------------------+
+| After Visit               | Experimenter protocol notes\                      |
+|                           | Checklist for quality assurance                   |
++---------------------------+---------------------------------------------------+
 
-Translation & adaptation
+*Full questionnaire from Global BABIES - Hong Kong:*
 
-Training & piloting
+```{=html}
+<iframe src="https://nyu.databrary.org/slot/72036/4725859,6877581/asset/492904/download?inline=true" width="480" height="300" type="video/mp4"></iframe>
+```
+# Workflow & Timeline
 
-Study data collection launch\
-QA of videos
-
-QA
-
-Transcription & annotation
-
-QA
-
-Release to DB
-
-## Include website info in this section
+![](pics/timeline-5year.png)

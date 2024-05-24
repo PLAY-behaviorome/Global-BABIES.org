@@ -2,19 +2,23 @@
 title: "The Sample"
 ---
 
-Each Global BABIES site is responsible for outreach to their community to enroll interested families, visits home to film mother-child natural activity, and upload videos to their Databrary volume. The final sample will contain 1000+ hours of mother-child activity, house tours, 3D renderings of the home, and parent-report questionnaires.
+Each Global BABIES site is responsible for outreach to their community to enroll interested families, visits home to film mother-child natural activity, and upload videos to their Databrary volume---with each site collecting data from 100 mother-child pairs. The final sample will contain 1000+ hours of mother-child activity, house tours, 3D renderings of the home, and parent-report questionnaires.
 
 ## The Sites
 
 The full corpus will be openly shared on [Databrary](databrary.org). Excerpt visits are currently available on the [Global BABIES Databrary volume](https://nyu.databrary.org/volume/1745).
 
-### Databrary reach (blue) & Current Global BABIES sites (red)
+### Databrary Institutions & Current Global BABIES Sites
 
 ![](pics/BabiesSites-current.png)
 
-### Anticipated Future Global BABIE Sites (yellow)
+Blue markers indicate Databrary partnered institutions. Red markers indicate current Global BABIES data collection sites,
+
+### Anticipated Future Global BABIE Sites
 
 ![](pics/BabiesSites-proposed.png)
+
+Yellow markers indicate proposed future Global BABIES sites---previous research partners of the leadership team.
 
 ## Inclusion criteria
 
