@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
+  favicon: "pics/BABIES-logo.png"
   title: "Global Babies"
   navbar:
+    logo: "pics/BABIES-logo.png"
     left:
       - href: index.qmd
         text: Overview
@@ -13,6 +15,15 @@ website:
       - dataproducts.qmd
       - protocol.qmd
       - quality.qmd
+      - text: Links
+        menu:
+        - href: https://databrary.org
+          icon: collection-play
+          text: Databrary
+        - href: https://datavyu.org
+          icon: display
+          text: Datavyu
+      
       
 
 format:
