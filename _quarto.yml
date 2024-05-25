@@ -18,11 +18,9 @@ website:
       - text: Links
         menu:
         - href: https://databrary.org
-          icon: collection-play
-          text: Databrary
+          text: "![](pics/databrary-nav.png)"
         - href: https://datavyu.org
-          icon: display
-          text: Datavyu
+          text: "![](pics/datavyu-nav.png)"
       
       
 
