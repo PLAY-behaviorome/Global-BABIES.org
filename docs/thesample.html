@@ -227,20 +227,21 @@ ul.task-list li input[type="checkbox"] {
     style Pilot color:#000000
   end
   Pilot ===&gt; Collection
-  subgraph Collection ["`**Collection**`"]
-    Collect("Data collection") --&gt; Upload{{"Curate &amp; upload to Databrary"}}
-    Upload --&gt; QA[/"BABIES team QA"\] --"`**PASS**`"--&gt; Share[("Share on BABIES Databrary volume")]
-    QA --"`**FAIL**`"--&gt; Retrain[/"Retrain with BABIES team"/]
+  subgraph Collection ["`**Data Collection**`"]
+    Collect("Conduct a home visit") --&gt; Upload{{"Curate &amp; upload videos to Databrary"}}
+    Upload --&gt; QA[/"BABIES team QA"\] --"`**PASS**`"--&gt; Share1[("Share session on &lt;br/&gt; BABIES Databrary volume")]
+     QA --"`**FAIL**`"--&gt; Share2[("Flag &amp; share session in &lt;br/&gt; secondary volume")]
+     QA -.-&gt;|"`**IF NEEDED**`"| Retrain[/"Retrain with BABIES team"/]
      style Collection fill:#e6e6ff
      style QA fill:#f0f5f5,color:#000000
      style Retrain fill:#f0f5f5,color:#000000
      style Collect color:#000000
      style Upload color:#000000
   end
-  Share ==&gt; Proc
-  subgraph Proc["`**Coding**`"]
-    Script("Transcription &amp; Annotation") --&gt; QA2[\"BABIES team QA"/]
-    QA2 --&gt; Release[("Release on Databrary")]
+  Share1 ==&gt; Proc
+  subgraph Proc["`**Data Annotation**`"]
+    Script("Transcribe &amp; annotate natural activity video") --&gt; QA2[\"BABIES team QA"/]
+    QA2 --&gt; Release[("Release videos &amp; annotation &lt;br/&gt; on BABIES Databrary volume")]
     style Proc fill:#e6e6ff
     style QA2 fill:#f0f5f5,color:#000000
     style Script color:#000000
