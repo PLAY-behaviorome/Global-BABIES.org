@@ -2,12 +2,68 @@
 title: "Quality Assurance"
 ---
 
-# Delete FAQs
+# Quality Assurance for Global BABIES
 
-# Delete Video coding
+All data collected for Global BABIES by each of the data collection sites goes through a rigorous examination to review the video, questionnaire, and meta data for inclusion in the final corpus. Each site collects 100 videos that must pass the Quality Assurance (QA) process. Checks are performed on each session on several aspects of the data.
 
-# Keep Links to Databrary & Datavyu
+## Databrary and demographic information
 
-# Join as a Site (rather than \"for parents\") 
+-   Permission to share (private, authorized researchers, or learning audiences) is indicated
 
-Requirements: Recruit, families share, follow policies (document on policies)
+-   Videos for all parts of the protocol are uploaded and file names conform to standards
+
+-   All demographic and metadata fields are filled out correctly
+
+-   Inclusion criteria to enter the study is met (i.e., age, gestational age, typical development)
+
+-   Demographic questionnaire on digital app is completed
+
+## One-hour natural activity
+
+-   Recording is 1 hour long
+
+-   Quality of the recording is adequate (audio, lighting, and focus)
+
+-   Child and relevant body parts for coding (face, hands, feet) minimally out of view
+
+-   Only mother and child are present in the home
+
+-   Mother and child do not interact or call attention to the data collector; data collector does not interact with mom or child
+
+## Home environment
+
+-   All rooms in home are included in house walkthrough
+
+-   Quality of the recording is adequate (audio, lighting, and focus)
+
+-   Each room is recorded steadily and carefully to see full room and details
+
+-   Data collector asks about and records child-designed objects in each room
+
+-   Child's sleeping arrangements and clothing are recorded
+
+-   Matterport data is in the correct setting and format; minimal blank space is recorded
+
+## Questionnaires
+
+-   All questionnaires are recorded on video and mom is in view
+
+-   Data collector provides correct instructions before each questionnaire
+
+-   All questionnaires are administered correctly (fully completed, no deviations from questions or interference of the researcher)
+
+-   All questionnaires are filled out correctly and submitted in the digital app
+
+# Quality Assurance Feedback
+
+Sites receive feedback for each of their data collection sessions, with outcomes of whether the session passes QA and comments for improvement of future visits. QA outcomes, comments, and a record of each session is stored and shared in spreadsheets with each site.
+
+## Heavy QA
+
+**Heavy Quality Assurance** is performed on the first 3-4 visits that *each data collector* conducts. In Heavy QA, a member of the BABIES central team watches videos to ensure transcription and annotation could be performed and every question was asked and scored correctly---detailed notes are provided. Heavy QA is also randomly conducted and for the last visit from each site to ensure adherence to the protocol.
+
+## Light QA
+
+After passing Heavy QA the following visits from *each data collector* will be reviewed with a **Light Quality Assurance** process. In Light QA, a member of the BABIES central team watches videos more quickly and reviews questionnaires for completeness---outcome of QA is shared and brief notes are provided. If issues are noted by the data collector in the Post-Visit Notes or the team notices protocol violations, the session may undergo Heavy QA instead.
+
+------------------------------------------------------------------------
