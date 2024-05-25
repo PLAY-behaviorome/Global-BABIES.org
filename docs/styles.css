@@ -1,5 +1,11 @@
 /* css styles */
 
+.nopad p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+}
+
 .vid p {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
@@ -9,6 +15,7 @@
 .vid {
   margin-bottom: 10px;
 }
+
 
 .descript {
   font-size: 110%;
