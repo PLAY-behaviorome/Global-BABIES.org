@@ -12,7 +12,7 @@ The full corpus will be openly shared on [Databrary](databrary.org). Excerpt vis
 
 ![](pics/BabiesSites-current.png)
 
-Blue markers indicate Databrary partnered institutions. Red markers indicate current Global BABIES data collection sites,
+Blue markers indicate Databrary partnered institutions. Red markers indicate current Global BABIES data collection sites.
 
 ## Anticipated Future Global BABIES Sites
 

@@ -10,13 +10,13 @@ All videos that are collected with go through a quality assurance (QA) process i
 
 ## Natural activities
 
-Researchers film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.
+Data collectors film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.
 
 ::: vid
 [Full 1-hour natural activity from Global BABIES - South Korea:]{.descript}
 
 ```{=html}
-<video width="480" controls>
+<video width="520" controls>
     <source src="https://nyu.databrary.org/slot/72037/0,4645248/asset/492905/download?inline=true" type="video/mp4">
 </video>
 ```
@@ -26,7 +26,7 @@ Researchers film one hour of natural activity, while mothers and babies go about
 [Full 1-hour natural activity from Global BABIES - Hong Kong:]{.descript}
 
 ```{=html}
-<video width="480" controls>
+<video width="520" controls>
     <source src="https://nyu.databrary.org/slot/72036/979047,4710862/asset/492950/download?inline=true" type="video/mp4">
 </video>
 ```
@@ -36,13 +36,13 @@ Researchers film one hour of natural activity, while mothers and babies go about
 
 ### House walkthrough
 
-Researchers film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.
+Data collectors film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.
 
 ::: vid
 [Excerpts from Global BABIES - Hong Kong:]{.descript}
 
 ```{=html}
-<video width="480" controls>
+<video width="520" controls>
     <source src="https://nyu.databrary.org/slot/72038/0,15195/asset/492940/download?inline=true" type="video/mp4">
 </video>
 ```
@@ -52,7 +52,7 @@ Researchers film the entire home, focusing on capturing child objects like toys,
 [Full house walkthrough from Global BABIES - South Korea:]{.descript}
 
 ```{=html}
-<video width="480" controls>
+<video width="520" controls>
     <source src="https://nyu.databrary.org/slot/72037/4646248,6684584/asset/492906/download?inline=true" type="video/mp4">
 </video>
 ```
@@ -60,13 +60,13 @@ Researchers film the entire home, focusing on capturing child objects like toys,
 
 ### 3D rendering
 
-Researchers use Matterport 3D technology to produce a digital rendering of family's homes, including measurements of all spaces.
+Data collectors use Matterport 3D technology to produce a digital rendering of family's homes, including measurements of all spaces.
 
 ::: vid
 [Excerpt from Global BABIES - New York:]{.descript}
 
 ```{=html}
-<video width="400" controls autoplay>
+<video width="440" controls autoplay>
     <source src="https://nyu.databrary.org/slot/72038/16195,43195/asset/492948/download?inline=true" type="video/mp4">
 </video>
 ```
@@ -74,7 +74,7 @@ Researchers use Matterport 3D technology to produce a digital rendering of famil
 
 # Questionnaires
 
-Researchers orally administer parent-report questionnaires during the home visit. Questionnaires are translated into local languages by each site investigator's team. Topics covered include:
+Data collectors orally administer parent-report questionnaires during the home visit. Questionnaires are translated into local languages by each site investigator's team. Topics covered include:
 
 +---------------------------+---------------------------------+
 | Before Visit (over phone) | Demographics\                   |
@@ -89,7 +89,7 @@ Researchers orally administer parent-report questionnaires during the home visit
 |                           | Household roster\               |
 |                           | Child-rearing values            |
 +---------------------------+---------------------------------+
-| After Visit               | Experimenter protocol notes\    |
+| After Visit               | Protocol notes\                 |
 |                           | Checklist for quality assurance |
 +---------------------------+---------------------------------+
 
@@ -97,7 +97,7 @@ Researchers orally administer parent-report questionnaires during the home visit
 [Full questionnaire from Global BABIES - Hong Kong:]{.descript}
 
 ```{=html}
-<video width="480" controls>
+<video width="520" controls>
     <source src="https://nyu.databrary.org/slot/72036/4725859,6877581/asset/492904/download?inline=true" type="video/mp4">
 </video>
 ```
@@ -108,3 +108,11 @@ Researchers orally administer parent-report questionnaires during the home visit
 ## Assessing vocabulary of dual language learners
 
 As part of the NIH [PLAY Project](play-project.org), a method for addressing gaps in the assessment of dual-language learning infants was developed. The method for developing the vocabulary inventory and product are reported are shared on [this Databrary volume](https://nyu.databrary.org/volume/1168).
+
+# Website Information
+
+This website is designed to be a transparently shared record of the Global BABIES project. The site is hosted in [GitHub](http://github.com/PLAY-behaviorome/) and is generated in [Quarto](https://quarto.org/) using [RStudio](http://rstudio.com/).
+
+For information about using R Markdown to generate websites, see <https://quarto.org/docs/websites/>. For formatting information, see <https://quarto.org/docs/authoring/markdown-basics.html>.
+
+Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://play-project.org/href=%22https://creativecommons.org/licenses/by/4.0/) license.
