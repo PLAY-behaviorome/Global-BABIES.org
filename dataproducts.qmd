@@ -8,6 +8,10 @@ All video data and spreadsheet export from parent-report questionnaires will be 
 
 All videos that are collected with go through a quality assurance (QA) process in which the BABIES team will ensure that participants meet inclusion criteria and protocol adhered to, such that videos are eligible to be included in the final sample. Videos that don't pass QA may be reused for other purposes, and as needed, the collection site will be provided additional training.
 
+::: note
+Videos on this website play best in Google Chrome or Firefox browser, due to video file size.
+:::
+
 ## Natural activities
 
 Data collectors film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.
@@ -16,7 +20,7 @@ Data collectors film one hour of natural activity, while mothers and babies go a
 [Full 1-hour natural activity from Global BABIES - South Korea:]{.descript}
 
 ```{=html}
-<video width="520" controls>
+<video width="520" controls playsinline>
     <source src="https://nyu.databrary.org/slot/72037/0,4645248/asset/492905/download?inline=true" type="video/mp4">
 </video>
 ```
@@ -26,7 +30,7 @@ Data collectors film one hour of natural activity, while mothers and babies go a
 [Full 1-hour natural activity from Global BABIES - Hong Kong:]{.descript}
 
 ```{=html}
-<video width="520" controls>
+<video width="520" controls playsinline>
     <source src="https://nyu.databrary.org/slot/72036/979047,4710862/asset/492950/download?inline=true" type="video/mp4">
 </video>
 ```

@@ -12,7 +12,9 @@ title: "People"
 +------------------------------------------+-----------------------------------------+---------------------------------------------+
 
 # Local Site Investigators
-
+::: note
+As project scope expands, additional investigators will be added to the project.
+::: 
 +------------------------------------------+-------------------------------------------+
 | ![](pics/people-jihyun.jpg){width="210"} | ![](pics/people-florrie.jpg){width="224"} |
 +------------------------------------------+-------------------------------------------+
@@ -20,8 +22,6 @@ title: "People"
 | Sung Kyun Kwan University\               | Chinese University of Hong Kong\          |
 | South Korea                              | Hong Kong                                 |
 +------------------------------------------+-------------------------------------------+
-
-As project scope expands, additional investigators will be added to the project.
 
 # Training and Quality Assurance
 
