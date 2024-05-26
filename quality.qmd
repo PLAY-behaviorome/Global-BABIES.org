@@ -9,49 +9,33 @@ All data collected for Global BABIES by each of the data collection sites goes t
 ## Databrary and demographic information
 
 -   Permission to share (private, authorized researchers, or learning audiences) is indicated
-
 -   Videos for all parts of the protocol are uploaded and file names conform to standards
-
 -   All demographic and metadata fields are filled out correctly
-
 -   Inclusion criteria to enter the study is met (i.e., age, gestational age, typical development)
-
 -   Demographic questionnaire on digital app is completed
 
 ## One-hour natural activity
 
 -   Recording is 1 hour long
-
 -   Quality of the recording is adequate (audio, lighting, and focus)
-
 -   Child and relevant body parts for coding (face, hands, feet) minimally out of view
-
 -   Only mother and child are present in the home
-
 -   Mother and child do not interact or call attention to the data collector; data collector does not interact with mom or child
 
 ## Home environment
 
 -   All rooms in home are included in house walkthrough
-
 -   Quality of the recording is adequate (audio, lighting, and focus)
-
 -   Each room is recorded steadily and carefully to see full room and details
-
 -   Data collector asks about and records child-designed objects in each room
-
 -   Child's sleeping arrangements and clothing are recorded
-
 -   Matterport data is in the correct setting and format; minimal blank space is recorded
 
 ## Questionnaires
 
 -   All questionnaires are recorded on video and mom is in view
-
 -   Data collector provides correct instructions before each questionnaire
-
 -   All questionnaires are administered correctly (fully completed, no deviations from questions or interference of the researcher)
-
 -   All questionnaires are filled out correctly and submitted in the digital app
 
 # Quality Assurance Feedback

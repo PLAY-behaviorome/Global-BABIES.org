@@ -22,13 +22,10 @@ Yellow markers indicate proposed future Global BABIES sites---previous research 
 
 # Inclusion Criteria
 
-Although Global BABIES endeavors to sample as much of the rich variations that the collection sites present. To ensure a sufficient sample size, we will limit variability along several dimensions. To be included in the final sessions, participants must:
-
--   be between 11-25 months of age
-
--   be born full-term (at last 36 weeks), of normal birth weight (\>= 5.5 lbs), without known disabilities
-
--   have the mother act as the caregiver during the one hour of natural activity
+Although Global BABIES endeavors to sample as much of the rich variations that the collection sites present. To ensure a sufficient sample size, we will limit variability along several dimensions. To be included in the final sessions, participants must:\
+- be between 11-25 months of age\
+- be born full-term (at last 36 weeks), of normal birth weight (\>= 5.5 lbs), without known disabilities\
+- have the mother act as the caregiver during the one hour of natural activity
 
 Participant families will vary widely on all other measures including race, ethnicity, home language, religion, urban/rural/suburban residence, and developing nation status.
 
