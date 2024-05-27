@@ -17,13 +17,25 @@ Videos on this website play best in Google Chrome or Firefox browser, due to vid
 Data collectors film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.
 
 ::: vid
-[Full 1-hour natural activity from Global BABIES - South Korea:]{.descript}
+[Excerpts from Global BABIES - Hong Kong:]{.descript}
 
 ```{=html}
 <video width="520" controls playsinline>
-    <source src="https://nyu.databrary.org/slot/72037/0,4645248/asset/492905/download?inline=true" type="video/mp4">
+    <source src="https://nyu.databrary.org/slot/72038/44195,181062/asset/493195/download?inline=true" type="video/mp4">
 </video>
 ```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72038/-?asset=493195)
+:::
+
+::: vid
+[1-hour natural activity at 20x speed from Global BABIES - Hong Kong:]{.descript}
+
+```{=html}
+<video width="520" controls playsinline>
+    <source src="https://nyu.databrary.org/slot/72038/356262,530830/asset/493199/download?inline=true" type="video/mp4">
+</video>
+```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72038/-?asset=493199)
 :::
 
 ::: vid
@@ -34,6 +46,18 @@ Data collectors film one hour of natural activity, while mothers and babies go a
     <source src="https://nyu.databrary.org/slot/72036/979047,4710862/asset/492950/download?inline=true" type="video/mp4">
 </video>
 ```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72036/-?asset=492950)
+:::
+
+::: vid
+[Full 1-hour natural activity from Global BABIES - South Korea:]{.descript}
+
+```{=html}
+<video width="520" controls playsinline>
+    <source src="https://nyu.databrary.org/slot/72037/0,4645248/asset/492905/download?inline=true" type="video/mp4">
+</video>
+```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72037/-?asset=492905)
 :::
 
 ## Home environment
@@ -43,13 +67,25 @@ Data collectors film one hour of natural activity, while mothers and babies go a
 Data collectors film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.
 
 ::: vid
-[Excerpts from Global BABIES - Hong Kong:]{.descript}
+[Excerpt from Global BABIES - South Korea:]{.descript}
 
 ```{=html}
 <video width="520" controls>
     <source src="https://nyu.databrary.org/slot/72038/0,15195/asset/492940/download?inline=true" type="video/mp4">
 </video>
 ```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72038/-?asset=492940)
+:::
+
+::: vid
+[House walkthrough at 12x speed from Global BABIES - South Korea:]{.descript}
+
+```{=html}
+<video width="520" controls playsinline>
+    <source src="https://nyu.databrary.org/slot/72038/182062,355262/asset/493197/download?inline=true" type="video/mp4">
+</video>
+```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72038/-?asset=493197)
 :::
 
 ::: vid
@@ -60,6 +96,18 @@ Data collectors film the entire home, focusing on capturing child objects like t
     <source src="https://nyu.databrary.org/slot/72037/4646248,6684584/asset/492906/download?inline=true" type="video/mp4">
 </video>
 ```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72037/-?asset=492906)
+:::
+
+::: vid
+[Full house walkthrough from Global BABIES - Hong Kong:]{.descript}
+
+```{=html}
+<video width="520" controls>
+    <source src="https://nyu.databrary.org/slot/72036/0,978047/asset/492902/download?inline=true" type="video/mp4">
+</video>
+```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72036/-?asset=492902)
 :::
 
 ### 3D rendering
@@ -74,6 +122,7 @@ Data collectors use Matterport 3D technology to produce a digital rendering of f
     <source src="https://nyu.databrary.org/slot/72038/16195,43195/asset/492948/download?inline=true" type="video/mp4">
 </video>
 ```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72038/-?asset=492948)
 :::
 
 # Questionnaires
@@ -105,6 +154,7 @@ Data collectors orally administer parent-report questionnaires during the home v
     <source src="https://nyu.databrary.org/slot/72036/4725859,6877581/asset/492904/download?inline=true" type="video/mp4">
 </video>
 ```
+![](pics/databrary-icon.png){width="15" height="16"} [View on Databrary](https://nyu.databrary.org/volume/1745/slot/72036/-?asset=492904)
 :::
 
 # Language Translations & Cultural Adaptations
