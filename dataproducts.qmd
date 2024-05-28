@@ -17,7 +17,7 @@ Videos on this website play best in Google Chrome or Firefox browser, due to vid
 Data collectors film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.
 
 ::: vid
-[Excerpts from Global BABIES - Hong Kong:]{.descript}
+[Excerpts of everyday activities in Hong Kong:]{.descript}
 
 ```{=html}
 <video width="520" controls playsinline>
@@ -67,7 +67,7 @@ Data collectors film one hour of natural activity, while mothers and babies go a
 Data collectors film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.
 
 ::: vid
-[Excerpt from Global BABIES - South Korea:]{.descript}
+[Excerpt the tour of a home in South Korea:]{.descript}
 
 ```{=html}
 <video width="520" controls>
