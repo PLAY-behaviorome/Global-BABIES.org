@@ -67,7 +67,7 @@ Data collectors film one hour of natural activity, while mothers and babies go a
 Data collectors film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.
 
 ::: vid
-[Excerpt the tour of a home in South Korea:]{.descript}
+[Excerpt video tour of a home in South Korea:]{.descript}
 
 ```{=html}
 <video width="520" controls>
