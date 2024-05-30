@@ -49,46 +49,25 @@
     "text": "Light QA\nAfter passing Heavy QA the following visits from each data collector will be reviewed with a Light Quality Assurance process. In Light QA, a member of the BABIES central team watches videos more quickly and reviews questionnaires for completeness—outcome of QA is shared and brief notes are provided. If issues are noted by the data collector in the Post-Visit Notes or the team notices protocol violations, the session may undergo Heavy QA instead."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "thesample.html",
+    "href": "thesample.html",
+    "title": "The Sample",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Global BABIES will generate a video corpus containing 1000+ hours of mother-child activity, house tours, 3D renderings of the home, and parent-report questionnaires. The full corpus will be openly shared on Databrary. Excerpt visits are currently available on the Global BABIES Databrary volume. The goal is to sample from all continents. Participant families will vary widely on race, ethnicity, home language, religion, urban/rural/suburban residence, and developing nation status."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Our Vision",
-    "section": "",
-    "text": "Global BABIES (Babies’ Activities & Behaviors In Everyday Settings) will revolutionize the ecological validity, cultural diversity, global practice, and transparency of developmental science:\n(1) We will establish the first global video corpus of everyday activity and behavior in 1000+ mothers and infants in the natural home environment—capturing practices for childrearing, nurturing, and interacting with infants. We will collect 3D renderings of the home environment, indoors and out (including cultural artifacts, technologies, and educational materials). Building on our NIH-funded work across the United States (play-project.org) and partnering with experts at global sites, we will conduct Global BABIES with total transparency and reproducibility, using video as the medium to document everything—including training videos, fidelity to the protocol, and quality assurance. All videos of home visits and supporting materials will be openly shared with researchers worldwide on Databrary, the world’s only large-scale video repository.\n(2) We will build “BABIESbrary,” a searchable, expandable library of curated, video clips relevant to infant learning, development, and well-being, including infant-caregiver behavior, everyday activities, and home environments across the globe in a separately branded sector of Databrary. Identification of video clips for BABIESbrary, and decisions about content and search terms will be developed with user communities to ensure cultural relevance.\n(3) We will collaboratively build capacity by training local researchers and practitioners on the equitable, open sharing of video for research, teaching, and demonstration. Training will include use of Databrary and BABIESbrary for uploading new material and finding data and video clips for reuse, video recording of behavior and home settings, human video annotation and transcription with Datavyu (an open-source, computerized coding tool), quality assurance and reproducibility, inter-observer reliability, self-curation, and transparent documentation of research protocols.\n\nOur Vision\nWe will leverage the power of video to galvanize the global science of infant learning and development. Babies’ brains, bodies, and behaviors develop at unprecedented rates, and each change expands opportunities for learning. Infants everywhere acquire foundational skills for moving their bodies, exploring the world, thinking and planning, interacting with others, and forming emotional attachments. And they do so in the context of culturally diverse childrearing practices and everyday settings. However, researchers lack objective, empirical data about cultural variations in childrearing environments—data possible only through video observations of mother-infant behavior in the natural home environments where families live and children develop. In child development, video-based, research on childrearing practices is common, but it is overly reliant on data from the Global North. High-quality video data on childrearing practices in the home setting are critical to understand the unique experiences of infants and mothers from cultures around the world.\nVideo is the most powerful, widely available, and intuitively accessible medium to document the richness and complexity of behavior and the subtle details of the surrounding context. Large-scale video is amenable to human annotation and machine learning. However, the use of video across global user communities requires the digital infrastructure, ethical policy framework, and training of local personnel to collect, curate, and share video at scale. We will create the first large-scale, global, video corpus of infant-mother everyday activities and behaviors in the home environment—openly shared with researchers worldwide.\n\n\nCommitment to Open Science\nThe openly-shared, global video corpus and materials will accelerate research and facilitate discovery by allowing researchers around the globe to reuse data on infant-mother natural activity and behavior in the ecologically-valid, home environment, and to adapt protocols to ask new questions and generate new discoveries. The entire protocol and video examples are shared on this website."
+    "objectID": "thesample.html#databrary-institutions-current-global-babies-sites",
+    "href": "thesample.html#databrary-institutions-current-global-babies-sites",
+    "title": "The Sample",
+    "section": "Databrary Institutions & Current Global BABIES Sites",
+    "text": "Databrary Institutions & Current Global BABIES Sites\n\nBlue markers indicate Databrary partnered institutions. Red markers indicate current Global BABIES data collection sites."
   },
   {
-    "objectID": "dataproducts.html",
-    "href": "dataproducts.html",
-    "title": "Data & Products",
-    "section": "",
-    "text": "All video data and spreadsheet export from parent-report questionnaires will be openly shared on Databrary at the project end. Full videos from exemplar home visits in South Korea and Hong Kong and China are publicly available. Curated clips and excerpts will be shared on the new “BABIESbrary” searchable global library created as part of this project.\nAll videos that are collected with go through a quality assurance (QA) process in which the BABIES team will ensure that participants meet inclusion criteria and protocol adhered to, such that videos are eligible to be included in the final sample. Videos that don’t pass QA may be reused for other purposes, and as needed, the collection site will be provided additional training.\n\nVideos on this website play best in Google Chrome or Firefox browser, due to video file size.\n\n\n\nData collectors film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.\n\nExcerpts of everyday activities in Hong Kong:\n\n    \n\n View on Databrary\n\n\n1-hour natural activity at 20x speed from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\nFull 1-hour natural activity from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\nFull 1-hour natural activity from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\n\n\n\n\nData collectors film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.\n\nExcerpt video tour of a home in South Korea:\n\n    \n\n View on Databrary\n\n\nHouse walkthrough at 12x speed from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\nFull house walkthrough from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\nFull house walkthrough from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\n\n\nData collectors use Matterport 3D technology to produce a digital rendering of family’s homes, including measurements of all spaces.\n\nExcerpt from Global BABIES - New York:\n\n    \n\n View on Databrary"
-  },
-  {
-    "objectID": "dataproducts.html#natural-activities",
-    "href": "dataproducts.html#natural-activities",
-    "title": "Data & Products",
-    "section": "",
-    "text": "Data collectors film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.\n\nExcerpts of everyday activities in Hong Kong:\n\n    \n\n View on Databrary\n\n\n1-hour natural activity at 20x speed from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\nFull 1-hour natural activity from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\nFull 1-hour natural activity from Global BABIES - South Korea:\n\n    \n\n View on Databrary"
-  },
-  {
-    "objectID": "dataproducts.html#home-environment",
-    "href": "dataproducts.html#home-environment",
-    "title": "Data & Products",
-    "section": "",
-    "text": "Data collectors film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.\n\nExcerpt video tour of a home in South Korea:\n\n    \n\n View on Databrary\n\n\nHouse walkthrough at 12x speed from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\nFull house walkthrough from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\nFull house walkthrough from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\n\n\nData collectors use Matterport 3D technology to produce a digital rendering of family’s homes, including measurements of all spaces.\n\nExcerpt from Global BABIES - New York:\n\n    \n\n View on Databrary"
-  },
-  {
-    "objectID": "dataproducts.html#assessing-vocabulary-of-dual-language-learners",
-    "href": "dataproducts.html#assessing-vocabulary-of-dual-language-learners",
-    "title": "Data & Products",
-    "section": "Assessing vocabulary of dual language learners",
-    "text": "Assessing vocabulary of dual language learners\nAs part of the NIH PLAY Project, a method for addressing gaps in the assessment of dual-language learning infants was developed. The method for developing the vocabulary inventory and product are reported are shared on this Databrary volume."
+    "objectID": "thesample.html#anticipated-future-global-babies-sites",
+    "href": "thesample.html#anticipated-future-global-babies-sites",
+    "title": "The Sample",
+    "section": "Anticipated Future Global BABIES Sites",
+    "text": "Anticipated Future Global BABIES Sites\n\nYellow markers indicate proposed future Global BABIES sites—previous research partners of the leadership team."
   },
   {
     "objectID": "protocol.html",
@@ -175,25 +154,39 @@
     "text": "7. Visit wrap-up\n\nEnsure that mom has copies of the consent and Databrary forms\nCollect and pack all equipment and paperwork from the house\nThank mom for letting us come to her home!"
   },
   {
-    "objectID": "thesample.html",
-    "href": "thesample.html",
-    "title": "The Sample",
+    "objectID": "dataproducts.html",
+    "href": "dataproducts.html",
+    "title": "Data & Products",
     "section": "",
-    "text": "Global BABIES will generate a video corpus containing 1000+ hours of mother-child activity, house tours, 3D renderings of the home, and parent-report questionnaires. The full corpus will be openly shared on Databrary. Excerpt visits are currently available on the Global BABIES Databrary volume. The goal is to sample from all continents. Participant families will vary widely on race, ethnicity, home language, religion, urban/rural/suburban residence, and developing nation status."
+    "text": "All video data and spreadsheet export from parent-report questionnaires will be openly shared on Databrary at the project end. Full videos from exemplar home visits in South Korea and Hong Kong and China are publicly available. Curated clips and excerpts will be shared on the new “BABIESbrary” searchable global library created as part of this project.\nAll videos that are collected with go through a quality assurance (QA) process in which the BABIES team will ensure that participants meet inclusion criteria and protocol adhered to, such that videos are eligible to be included in the final sample. Videos that don’t pass QA may be reused for other purposes, and as needed, the collection site will be provided additional training.\n\nVideos on this website play best in Google Chrome or Firefox browser, due to video file size.\n\n\n\nData collectors film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.\n\nExcerpts of everyday activities in Hong Kong:\n\n    \n\n View on Databrary\n\n\n1-hour natural activity at 20x speed from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\nFull 1-hour natural activity from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\nFull 1-hour natural activity from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\n\n\n\n\nData collectors film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.\n\nExcerpt video tour of a home in South Korea:\n\n    \n\n View on Databrary\n\n\nHouse walkthrough at 12x speed from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\nFull house walkthrough from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\nFull house walkthrough from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\n\n\nData collectors use Matterport 3D technology to produce a digital rendering of family’s homes, including measurements of all spaces.\n\nExcerpt from Global BABIES - New York:\n\n    \n\n View on Databrary"
   },
   {
-    "objectID": "thesample.html#databrary-institutions-current-global-babies-sites",
-    "href": "thesample.html#databrary-institutions-current-global-babies-sites",
-    "title": "The Sample",
-    "section": "Databrary Institutions & Current Global BABIES Sites",
-    "text": "Databrary Institutions & Current Global BABIES Sites\n\nBlue markers indicate Databrary partnered institutions. Red markers indicate current Global BABIES data collection sites."
+    "objectID": "dataproducts.html#natural-activities",
+    "href": "dataproducts.html#natural-activities",
+    "title": "Data & Products",
+    "section": "",
+    "text": "Data collectors film one hour of natural activity, while mothers and babies go about their day. Videos contain faces and voices on camera. Mothers may go anywhere in their home, play with their babies or not, do chores, work, and bath, feed, or change their child.\n\nExcerpts of everyday activities in Hong Kong:\n\n    \n\n View on Databrary\n\n\n1-hour natural activity at 20x speed from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\nFull 1-hour natural activity from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\nFull 1-hour natural activity from Global BABIES - South Korea:\n\n    \n\n View on Databrary"
   },
   {
-    "objectID": "thesample.html#anticipated-future-global-babies-sites",
-    "href": "thesample.html#anticipated-future-global-babies-sites",
-    "title": "The Sample",
-    "section": "Anticipated Future Global BABIES Sites",
-    "text": "Anticipated Future Global BABIES Sites\n\nYellow markers indicate proposed future Global BABIES sites—previous research partners of the leadership team."
+    "objectID": "dataproducts.html#home-environment",
+    "href": "dataproducts.html#home-environment",
+    "title": "Data & Products",
+    "section": "",
+    "text": "Data collectors film the entire home, focusing on capturing child objects like toys, books, feeding items, bathing items, clothes, and sleep areas.\n\nExcerpt video tour of a home in South Korea:\n\n    \n\n View on Databrary\n\n\nHouse walkthrough at 12x speed from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\nFull house walkthrough from Global BABIES - South Korea:\n\n    \n\n View on Databrary\n\n\nFull house walkthrough from Global BABIES - Hong Kong:\n\n    \n\n View on Databrary\n\n\n\n\nData collectors use Matterport 3D technology to produce a digital rendering of family’s homes, including measurements of all spaces.\n\nExcerpt from Global BABIES - New York:\n\n    \n\n View on Databrary"
+  },
+  {
+    "objectID": "dataproducts.html#assessing-vocabulary-of-dual-language-learners",
+    "href": "dataproducts.html#assessing-vocabulary-of-dual-language-learners",
+    "title": "Data & Products",
+    "section": "Assessing vocabulary of dual language learners",
+    "text": "Assessing vocabulary of dual language learners\nAs part of the NIH PLAY Project, a method for addressing gaps in the assessment of dual-language learning infants was developed. The method for developing the vocabulary inventory and product are reported are shared on this Databrary volume."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Our Vision",
+    "section": "",
+    "text": "Global BABIES (Babies’ Activities & Behaviors In Everyday Settings) will revolutionize the ecological validity, cultural diversity, global practice, and transparency of developmental science:\n(1) We will establish the first global video corpus of everyday activity and behavior in 1000+ mothers and infants in the natural home environment—capturing practices for childrearing, nurturing, and interacting with infants. We will collect 3D renderings of the home environment, indoors and out (including cultural artifacts, technologies, and educational materials). Building on our NIH-funded work across the United States (play-project.org) and partnering with experts at global sites, we will conduct Global BABIES with total transparency and reproducibility, using video as the medium to document everything—including training videos, fidelity to the protocol, and quality assurance. All videos of home visits and supporting materials will be openly shared with researchers worldwide on Databrary, the world’s only large-scale video repository.\n(2) We will build “BABIESbrary,” a searchable, expandable library of curated, video clips relevant to infant learning, development, and well-being, including infant-caregiver behavior, everyday activities, and home environments across the globe in a separately branded sector of Databrary. Identification of video clips for BABIESbrary, and decisions about content and search terms will be developed with user communities to ensure cultural relevance.\n(3) We will collaboratively build capacity by training local researchers and practitioners on the equitable, open sharing of video for research, teaching, and demonstration. Training will include use of Databrary and BABIESbrary for uploading new material and finding data and video clips for reuse, video recording of behavior and home settings, human video annotation and transcription with Datavyu (an open-source, computerized coding tool), quality assurance and reproducibility, inter-observer reliability, self-curation, and transparent documentation of research protocols.\n\nOur Vision\nWe will leverage the power of video to galvanize the global science of infant learning and development. Babies’ brains, bodies, and behaviors develop at unprecedented rates, and each change expands opportunities for learning. Infants everywhere acquire foundational skills for moving their bodies, exploring the world, thinking and planning, interacting with others, and forming emotional attachments. And they do so in the context of culturally diverse childrearing practices and everyday settings. However, researchers lack objective, empirical data about cultural variations in childrearing environments—data possible only through video observations of mother-infant behavior in the natural home environments where families live and children develop. In child development, video-based, research on childrearing practices is common, but it is overly reliant on data from the Global North. High-quality video data on childrearing practices in the home setting are critical to understand the unique experiences of infants and mothers from cultures around the world.\nVideo is the most powerful, widely available, and intuitively accessible medium to document the richness and complexity of behavior and the subtle details of the surrounding context. Large-scale video is amenable to human annotation and machine learning. However, the use of video across global user communities requires the digital infrastructure, ethical policy framework, and training of local personnel to collect, curate, and share video at scale. We will create the first large-scale, global, video corpus of infant-mother everyday activities and behaviors in the home environment—openly shared with researchers worldwide.\n\n\nCommitment to Open Science\nThe openly-shared, global video corpus and materials will accelerate research and facilitate discovery by allowing researchers around the globe to reuse data on infant-mother natural activity and behavior in the ecologically-valid, home environment, and to adapt protocols to ask new questions and generate new discoveries. The entire protocol and video examples are shared on this website."
   },
   {
     "objectID": "people.html",
