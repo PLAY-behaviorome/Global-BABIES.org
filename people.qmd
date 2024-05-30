@@ -17,13 +17,13 @@ title: "People"
 As project scope expands, additional investigators will be added to the project.
 :::
 
-+-------------------------------------------+-------------------------------------------+--------------------------------------+
-| ![](pics/people-jihyun.jpg){height="275"} | ![](pics/people-florrie.jpg){width="224"} | ![](pics/people-si.JPG){width="186"} |
-+-------------------------------------------+-------------------------------------------+--------------------------------------+
-| **Ji-hyun Song**\                         | **Florrie Ng**\                           | **Si Chen**\                         |
-| Sung Kyun Kwan University\                | Chinese University of Hong Kong\          | University of Hong Kong\             |
-| South Korea                               | Hong Kong                                 | China                                |
-+-------------------------------------------+-------------------------------------------+--------------------------------------+
++-------------------------------------------+--------------------------------------------+---------------------------------------+
+| ![](pics/people-jihyun.jpg){height="275"} | ![](pics/people-florrie.jpg){height="275"} | ![](pics/people-si.JPG){height="275"} |
++-------------------------------------------+--------------------------------------------+---------------------------------------+
+| **Ji-hyun Song**\                         | **Florrie Ng**\                            | **Si Chen**\                          |
+| Sung Kyun Kwan University\                | Chinese University of Hong Kong\           | University of Hong Kong\              |
+| South Korea                               | Hong Kong                                  | China                                 |
++-------------------------------------------+--------------------------------------------+---------------------------------------+
 
 # Training and Quality Assurance
 
