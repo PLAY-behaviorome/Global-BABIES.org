@@ -21,8 +21,8 @@ As project scope expands, additional investigators will be added to the project.
 | ![](pics/people-jihyun.jpg){height="275"} | ![](pics/people-florrie.jpg){height="275"} | ![](pics/people-si.JPG){height="275"} |
 +-------------------------------------------+--------------------------------------------+---------------------------------------+
 | **Ji-hyun Song**\                         | **Florrie Ng**\                            | **Si Chen**\                          |
-| Sung Kyun Kwan University\                | Chinese University of Hong Kong\           | University of Hong Kong\              |
-| South Korea                               | Hong Kong                                  | China                                 |
+| Sung Kyun Kwan University\                | Chinese University of Hong Kong\           | Chinese University of Hong Kong\              |
+| South Korea                               | Hong Kong                                  | Hong Kong                                 |
 +-------------------------------------------+--------------------------------------------+---------------------------------------+
 
 # Training and Quality Assurance
